@@ -1,0 +1,7 @@
+settings = 
+{
+	android = 
+	{
+		versionCode = "10",
+	},
+}
